@@ -1,5 +1,7 @@
 # FaturaClara
 
+**[Abrir o app](https://lmurarol.github.io/faturaclara/)** · [código no GitHub](https://github.com/LmuraroL/faturaclara)
+
 **Trabalho acadêmico de MBA** (inteligência financeira orientada por dados e IA). Os direitos de uso são **exclusivamente educacionais, acadêmicos e de pesquisa**. Uso comercial não é autorizado.
 
 Orientador que **lê a fatura do cartão**, classifica cada gasto e mostra o que é essencial, o que é flexível e o que é dispensável — para economizar ou redirecionar o dinheiro.
@@ -84,6 +86,8 @@ npm run preview
 ---
 
 ## GitHub
+
+App no ar: [https://lmurarol.github.io/faturaclara/](https://lmurarol.github.io/faturaclara/)
 
 O código fica neste repositório. A cada push em `main`, o GitHub Pages publica a aplicação (Actions → workflow **GitHub Pages**).
 
